@@ -1,5 +1,7 @@
 # Excellon Board Edge Route to G-Code"
 
+![alt text](https://github.com/PavelSirotkin/ExcellonBoardEdgeRouteToG-Code/blob/main/scr.png)
+
 ## Назначение программы
 
 Эта программа предназначена для преобразования файлов Excellon (формат, используемый для описания контуров печатных плат) в G-код для станков с ЧПУ. Она визуализирует контуры платы и генерирует управляющую программу для фрезерования краев печатных плат.
