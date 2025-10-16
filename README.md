@@ -1,4 +1,4 @@
-# Инструкция к программе "Excellon Board Edge Route to G-Code"
+# Excellon Board Edge Route to G-Code"
 
 ## Назначение программы
 
